@@ -1,0 +1,6 @@
+2017-04-24 20:12:32 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
+2017-04-24 20:12:53 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
+2017-04-24 20:21:21 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
+2017-04-24 20:24:18 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
+2017-04-24 20:24:30 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
+2017-04-24 20:24:54 - PHP Notice:  Undefined variable: modules_old_opencart in /home2/juansroj/public_html/store/catalog/view/theme/grace/template/product/product.tpl on line 13
